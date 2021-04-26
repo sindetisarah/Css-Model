@@ -38,14 +38,18 @@ strong{
     width:100px;
     text-align: center;
     margin-left: 400px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .padding{
     border:3px solid blue;
     width:80px;
     margin-bottom: 10px;
+    padding-left: 10px;
 }
 .content{
     border: 5px solid mediumorchid;
     width:50px;
     margin-bottom:10px ;
+    padding-left: 8px;
 }
