@@ -31,3 +31,21 @@ strong{
     color:indigo;
     /* background-color: indigo; */
 }
+
+
+.margin{
+    border: 10px solid brown;
+    width:100px;
+    text-align: center;
+    margin-left: 400px;
+}
+.padding{
+    border:3px solid blue;
+    width:80px;
+    margin-bottom: 10px;
+}
+.content{
+    border: 5px solid mediumorchid;
+    width:50px;
+    margin-bottom:10px ;
+}
